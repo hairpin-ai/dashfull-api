@@ -20,7 +20,7 @@ export default function IndexPage() {
   const renderHead = (
     <Stack spacing={2} sx={{ textAlign: 'center' }}>
       <Typography variant="h5" component="h1" sx={{ fontWeight: 'fontWeightBold' }}>
-        The starting point for your next project v5.1.0
+        hairpin dashfull API
       </Typography>
 
       <Typography variant="body2">

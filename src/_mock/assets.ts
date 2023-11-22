@@ -173,9 +173,9 @@ export const _lastNames = [
 ];
 
 export const _orgTitles = [
-  'Organization One',
-  'Organization Two',
-  'Organization Three',
+  'Organization API One',
+  'Organization API Two',
+  'Organization API Three',
 ]
 
 // ----------------------------------------------------------------------

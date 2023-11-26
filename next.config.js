@@ -2,6 +2,6 @@ module.exports = {
   reactStrictMode: true,
   env: {
     DEV_API: 'http://localhost:3000',
-    PRODUCTION_API: 'https://hairpin.cc',
+    PRODUCTION_API: 'https://stage.hairpin.cc',
   },
 };
